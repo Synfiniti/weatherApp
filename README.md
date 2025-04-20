@@ -40,7 +40,7 @@ Make sure to replace the API key in your JavaScript file:
 const apiKey = "your_api_key_here";
 
 🌍 Live Demo
-🔗 View Live Demo (optional)
+🔗 https://synfiniti.github.io/weatherApp/
 
 🙌 Contributions
 Contributions are welcome! Feel free to fork this repo, submit pull requests, or open issues to help improve the app.
